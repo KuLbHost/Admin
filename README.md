@@ -1,1 +1,1 @@
-# Admin
+# SampServerHostering.
